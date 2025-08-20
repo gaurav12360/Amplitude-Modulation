@@ -93,7 +93,7 @@ plot(t,s);
 
 
 
-Output Waveform
+Output Waveform : ![image alt]([image_url](https://github.com/gaurav12360/Amplitude-Modulation/blob/25f48b95eb209651ff80f6ee362930dae8426bbc/modelgraphs.png))
 
 
 
