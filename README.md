@@ -93,7 +93,7 @@ plot(t,s);
 
 
 
-Output Waveform :  <img width="919" height="1290" alt="image" src="https://github.com/gaurav12360/Amplitude-Modulation/blob/main/modelgraphs.png?raw=true" />
+Output Waveform :  <img width="919" height="1290" alt="image" src="https://github.com/gaurav12360/Amplitude-Modulation/blob/2ac4b34a5cb9a537fc408378f25bcd458718dbbc/modelgraphs.png" />
 
 
 
