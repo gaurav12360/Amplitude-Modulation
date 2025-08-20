@@ -100,7 +100,7 @@ Output Waveform :  <img width="919" height="1290" alt="image" src="https://githu
 
 
 
-TABULATION:
+TABULATION:  <img width="919" height="1290" alt="image" src="https://github.com/gaurav12360/Amplitude-Modulation/blob/main/tabulation.jpg?raw=true" >
 
 
 
